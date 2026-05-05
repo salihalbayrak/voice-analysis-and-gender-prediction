@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+duygu_sonuclari.xlsx
+feature_importance.xlsx
+hatalar.xlsx
+confusion_matrix.png
+f0_dagilim.png
+autocorr_vs_fft.png
